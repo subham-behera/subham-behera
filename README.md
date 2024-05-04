@@ -11,13 +11,14 @@
 
 </div>
 
+<hr>
+
 <div align="center">
 
 [![Subham's GitHub stats](https://github-readme-stats.vercel.app/api?username=subham-behera&show_icons=true&theme=merko)](https://github.com/subham-behera/github-readme-stats)
 
-<br>
 
-[![Most used languages](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=subham-behera&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff)](https://github.com/ashutosh00710/github-readme-activity-graph")
+<!-- [![Most used languages](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=subham-behera&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff)](https://github.com/ashutosh00710/github-readme-activity-graph") -->
 
 </div>
 
