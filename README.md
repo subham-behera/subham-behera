@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently building projects around ML
 
-- 👨‍💻 Strong hands on dsa and programming languages like python,java,c
+- 👨‍💻 Strong hands on DSA and programming languages like python,java,c
 
 - 🌱 Skilled in using new age websites and softwares
 
