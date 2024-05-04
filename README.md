@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently Learning & Developing projects **MERN**
 
-- 👨‍💻 All of my projects are available at [https://github.com/subham-behera](https://github.com/subham-behera)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/subham-behera)
 
 </div>
 
@@ -56,7 +56,9 @@
 
 <h2 align="left">Connect with me:-</h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/subham-behera-515310270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/subham-behera-515310270" target="blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/linkedin/linkedin.svg" height="30" width="40" /></a>
+
 <a href="https://twitter.com/subhambehera_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
 
 </p>
