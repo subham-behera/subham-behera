@@ -55,10 +55,11 @@
 
 
 <h2 align="left">Connect with me:-</h2>
-<p align="left">
+
+<div>
 
 <a href="https://www.linkedin.com/in/subham-behera-515310270" target="blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/linkedin/linkedin.svg" height="30" width="40" /></a>
 
 <a href="https://twitter.com/subhambehera_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
 
-</p>
+</div>
