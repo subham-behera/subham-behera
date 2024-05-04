@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently building projects around ML
 
-- 🌱 I’m currently Learning & Developing projects **MERN**
+- 👨‍💻 Strong hands on dsa and programming languages like python,java,c.
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/subham-behera)
+- 🌱 Skilled in using new age websites and softwares. 
 
 </div>
 
