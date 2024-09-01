@@ -55,8 +55,6 @@
 
 <div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=subham-behera&repo=GoAgro)](https://github.com/subham-behera/GoAgro)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=subham-behera&repo=Insurance-Cost)](https://github.com/subham-behera/Insurance-Cost)
   
 </div>
