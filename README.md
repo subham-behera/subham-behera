@@ -56,7 +56,7 @@
 <div>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=subham-behera&repo=Insurance-Cost)](https://github.com/subham-behera/Insurance-Cost)
-  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=subham-behera&repo=terraform_azure)](https://github.com/subham-behera/terraform_azure)  
 </div>
 
 
